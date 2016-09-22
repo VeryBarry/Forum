@@ -1,0 +1,4 @@
+-1|Alice|Heloo
+0|Bob|Hey Alice
+1|Charlie|wattup bro
+0|charlie|wattup guuuurl
